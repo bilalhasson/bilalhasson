@@ -65,6 +65,19 @@ over on **[bilalhasson.com/blog](https://www.bilalhasson.com/blog)**.
 
 ---
 
+## 🤖 How I work — AI-assisted, end to end
+
+I use **[Claude Code](https://claude.com/claude-code)** as a daily force-multiplier across the whole development lifecycle — not just to write code:
+
+- **Faster R&D** — building context on unfamiliar codebases, APIs and trade-offs quickly, so decisions start from evidence instead of guesswork.
+- **Requirements-driven review** — reviewing changes against the actual acceptance criteria (not just style) to catch gaps before they ship.
+- **Automation via custom skills** — packaging repetitive workflows into reusable skills so routine tasks run consistently and hands-off.
+- **Internal tooling** — building small internal tools and agents my teammates can pick up and use, not just one-off scripts for myself.
+
+The payoff: less time on boilerplate and glue, more on architecture, correctness, and shipping.
+
+---
+
 <div align="center">
 
 *Outside of code: family, and chasing gravity — skydiving & rock climbing 🪂🧗*
