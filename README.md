@@ -65,17 +65,6 @@ over on **[bilalhasson.com/blog](https://www.bilalhasson.com/blog)**.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bilalhasson&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Bilal's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhasson&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 *Outside of code: family, and chasing gravity — skydiving & rock climbing 🪂🧗*
